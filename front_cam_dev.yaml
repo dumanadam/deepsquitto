@@ -1,0 +1,5 @@
+identifiers: front_cam_detection
+name: front_cam_hal
+sw_version: 01
+model: hal3000
+manufacturer: hallab
